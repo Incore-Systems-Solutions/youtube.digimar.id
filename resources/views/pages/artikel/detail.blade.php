@@ -10,7 +10,7 @@
    <!-- Meta Item -->
    <title>{{ $meta['meta'][$lang]['title'] ?? 'youtube.digimar.id – Strategi YouTube Cerdas untuk Tumbuh Lebih Cepat' }}</title>
     <meta name="description" content="{{ $meta['meta'][$lang]['description'] ?? 'Buat konten menarik, tingkatkan subscriber, dan dorong konversi bisnis lewat strategi YouTube dari Digimar.' }}">
-    <meta name="keywords" content="{{ $meta['meta'][$lang]['keywords'] ?? 'youtube marketing, strategi youtube, konten video, channel bisnis, subscriber youtube, video promosi, optimasi youtube, digimar youtube' }}">
+    <meta name="keywords" content="{{ $meta['meta'][$lang]['keywords'] ?? 'youtube marketing, strategi youtube, konten video, channel bisnis, subscriber youtube, video promosi, optimasi youtube, digimar youtube, video youtube, youtube channel, konten youtube, video viral' }}">
    <!-- Schema Item -->
     {{-- Schema Item --}}
     @if (!empty($meta['schema'][$lang]))
